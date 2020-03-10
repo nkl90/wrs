@@ -19,3 +19,9 @@
 /.idea
 tags
 *.swp
+
+###> eclipse ide ###
+.buildpath
+.project
+.settings/
+###< eclipse ide ###

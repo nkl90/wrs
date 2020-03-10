@@ -284,6 +284,9 @@
     "symfony/intl": {
         "version": "v4.2.4"
     },
+    "symfony/ldap": {
+        "version": "v4.3.11"
+    },
     "symfony/maker-bundle": {
         "version": "1.0",
         "recipe": {
